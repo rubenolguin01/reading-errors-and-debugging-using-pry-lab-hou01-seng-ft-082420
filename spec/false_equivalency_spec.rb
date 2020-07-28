@@ -6,3 +6,5 @@ describe "false_equivalency" do
     expect(selection(2)).to eq("HAM HAM HAM IN MY TUMMY")
   end
 end
+
+false_equivalency
